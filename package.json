@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://britocris.github.io/Prueba-Artear/",
+  "homepage": "https://britocris.github.io/Prueba/",
   "private": false,
   "dependencies": {
     "@material-ui/core": "^4.5.0",
@@ -38,5 +38,4 @@
   "devDependencies": {
     "gh-pages": "^2.2.0"
   },
-  "homepage": "https://britocris.github.io/Prueba/"
 }
